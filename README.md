@@ -8,6 +8,10 @@ _Now you must enter the login-api folder with the following command_
 ```
 cd playlistDownloader
 ```
+_Now you must install the pytube library with the following command_
+```
+pip install pytube
+```
 _Now you can run the program with the following command_
 ```
 python main.py
